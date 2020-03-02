@@ -1,0 +1,11 @@
+C:\Users\krzys\Desktop\dot_net_samples\1.Func-Action-Predicate\bin\Debug\netcoreapp3.1\1.Func-Action-Predicate.exe
+C:\Users\krzys\Desktop\dot_net_samples\1.Func-Action-Predicate\bin\Debug\netcoreapp3.1\1.Func-Action-Predicate.deps.json
+C:\Users\krzys\Desktop\dot_net_samples\1.Func-Action-Predicate\bin\Debug\netcoreapp3.1\1.Func-Action-Predicate.runtimeconfig.json
+C:\Users\krzys\Desktop\dot_net_samples\1.Func-Action-Predicate\bin\Debug\netcoreapp3.1\1.Func-Action-Predicate.runtimeconfig.dev.json
+C:\Users\krzys\Desktop\dot_net_samples\1.Func-Action-Predicate\bin\Debug\netcoreapp3.1\1.Func-Action-Predicate.dll
+C:\Users\krzys\Desktop\dot_net_samples\1.Func-Action-Predicate\bin\Debug\netcoreapp3.1\1.Func-Action-Predicate.pdb
+C:\Users\krzys\Desktop\dot_net_samples\1.Func-Action-Predicate\obj\Debug\netcoreapp3.1\1.Func-Action-Predicate.csprojAssemblyReference.cache
+C:\Users\krzys\Desktop\dot_net_samples\1.Func-Action-Predicate\obj\Debug\netcoreapp3.1\1.Func-Action-Predicate.AssemblyInfoInputs.cache
+C:\Users\krzys\Desktop\dot_net_samples\1.Func-Action-Predicate\obj\Debug\netcoreapp3.1\1.Func-Action-Predicate.AssemblyInfo.cs
+C:\Users\krzys\Desktop\dot_net_samples\1.Func-Action-Predicate\obj\Debug\netcoreapp3.1\1.Func-Action-Predicate.dll
+C:\Users\krzys\Desktop\dot_net_samples\1.Func-Action-Predicate\obj\Debug\netcoreapp3.1\1.Func-Action-Predicate.pdb
