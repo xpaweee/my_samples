@@ -1,0 +1,11 @@
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\bin\Debug\netcoreapp3.1\4.Evento.exe
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\bin\Debug\netcoreapp3.1\4.Evento.deps.json
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\bin\Debug\netcoreapp3.1\4.Evento.runtimeconfig.json
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\bin\Debug\netcoreapp3.1\4.Evento.runtimeconfig.dev.json
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\bin\Debug\netcoreapp3.1\4.Evento.dll
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\bin\Debug\netcoreapp3.1\4.Evento.pdb
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\obj\Debug\netcoreapp3.1\4.Evento.csprojAssemblyReference.cache
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\obj\Debug\netcoreapp3.1\4.Evento.AssemblyInfoInputs.cache
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\obj\Debug\netcoreapp3.1\4.Evento.AssemblyInfo.cs
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\obj\Debug\netcoreapp3.1\4.Evento.dll
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\obj\Debug\netcoreapp3.1\4.Evento.pdb

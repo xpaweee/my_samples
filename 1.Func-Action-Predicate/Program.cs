@@ -37,6 +37,9 @@ namespace _1.Func_Action_Predicate
 
             //Action - nic nie zwróci 
             Action<string> MyAction = s => System.Console.WriteLine("Hejka");
+
+            //Predicate - zwraca tylko prawde lub falsz
+            Predicate<string> MyPredicate = s => s.Length > 2 ? true: false;
         }
 
     }

@@ -1,0 +1,11 @@
+C:\Users\krzys\Desktop\dot_net_samples\3.Delegate\bin\Debug\netcoreapp3.1\3.Delegate.exe
+C:\Users\krzys\Desktop\dot_net_samples\3.Delegate\bin\Debug\netcoreapp3.1\3.Delegate.deps.json
+C:\Users\krzys\Desktop\dot_net_samples\3.Delegate\bin\Debug\netcoreapp3.1\3.Delegate.runtimeconfig.json
+C:\Users\krzys\Desktop\dot_net_samples\3.Delegate\bin\Debug\netcoreapp3.1\3.Delegate.runtimeconfig.dev.json
+C:\Users\krzys\Desktop\dot_net_samples\3.Delegate\bin\Debug\netcoreapp3.1\3.Delegate.dll
+C:\Users\krzys\Desktop\dot_net_samples\3.Delegate\bin\Debug\netcoreapp3.1\3.Delegate.pdb
+C:\Users\krzys\Desktop\dot_net_samples\3.Delegate\obj\Debug\netcoreapp3.1\3.Delegate.csprojAssemblyReference.cache
+C:\Users\krzys\Desktop\dot_net_samples\3.Delegate\obj\Debug\netcoreapp3.1\3.Delegate.AssemblyInfoInputs.cache
+C:\Users\krzys\Desktop\dot_net_samples\3.Delegate\obj\Debug\netcoreapp3.1\3.Delegate.AssemblyInfo.cs
+C:\Users\krzys\Desktop\dot_net_samples\3.Delegate\obj\Debug\netcoreapp3.1\3.Delegate.dll
+C:\Users\krzys\Desktop\dot_net_samples\3.Delegate\obj\Debug\netcoreapp3.1\3.Delegate.pdb

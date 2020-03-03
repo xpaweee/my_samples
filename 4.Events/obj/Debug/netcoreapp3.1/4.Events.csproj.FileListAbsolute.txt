@@ -1,0 +1,3 @@
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\obj\Debug\netcoreapp3.1\4.Events.csprojAssemblyReference.cache
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\obj\Debug\netcoreapp3.1\4.Events.AssemblyInfoInputs.cache
+C:\Users\krzys\Desktop\dot_net_samples\4.Events\obj\Debug\netcoreapp3.1\4.Events.AssemblyInfo.cs
